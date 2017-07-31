@@ -1,4 +1,5 @@
 '''See the below template for the correct format for contacting your phone via email
+Please Note This template is taken from reference below, not created by NV
 *****************************************************************
 Alltel	                        [10-digit phone number]@message.alltel.com
                 Example: 1234567890@message.alltel.com
