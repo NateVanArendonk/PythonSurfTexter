@@ -37,10 +37,9 @@ username = 'nate.vanaren@gmail.com'
 # set the name of the email to text from
 email = 'nate.vanaren@gmail.com'
 # set the cell number from the above info to your cell phone
-#cell = '6168264561@vtext.com'
-cell = '7082561605@txt.att.net'  #peters phone
+cell = cell #
 # set the password for the email
-password = 'nathan34'
+password = # pw is first name and hs bb #
 
 def sendWeatherText(morningStatement):
     try:
