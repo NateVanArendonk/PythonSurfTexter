@@ -34,13 +34,13 @@ import smtplib
 
 
 # set username equal to your email address
-username = 'nate.vanaren@gmail.com'
+username = 'YOUREMAIL@GMAIL.COM
 # set the name of the email to text from
-email = 'nate.vanaren@gmail.com'
+email = 'YOUREMAIL@GMAIL.COM'
 # set the cell number from the above info to your cell phone
 cell = cell #
 # set the password for the email
-password = # pw is first name and hs bb #
+password = 'passwordOfChoice'
 
 def sendWeatherText(morningStatement):
     try:
