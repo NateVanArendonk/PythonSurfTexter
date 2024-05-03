@@ -15,9 +15,9 @@ Surf's Up Alert is a Python program that fetches real-time buoy data in Puget So
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/surfs-up-alert.git`
+1. **Clone the Repository**: `git clone https://github.com/NateVanArendonk/PythonSurfTexter.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Configure Settings**: Edit `config.py` to set your email preferences and location.
+3. **Configure Settings**: Edit `emailText.py` to set your email preferences and location.
 4. **Run the Script**: `python surfs_up_alert.py`
 5. **Catch the Wave!**: Sit back, relax, and wait for those sweet surfing alerts to roll in.
 
