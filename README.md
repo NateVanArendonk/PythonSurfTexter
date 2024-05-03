@@ -18,7 +18,7 @@ Surf's Up Alert is a Python program that fetches real-time buoy data from Hein B
 1. **Clone the Repository**: `git clone https://github.com/NateVanArendonk/PythonSurfTexter.git`
 2. **Install Dependencies**: `pip install -r requirements.txt` if there are any
 3. **Configure Settings**: Edit `emailText.py` to set your email preferences and location.
-4. **Run the Script**: `python surfs_up_alert.py`
+4. **Run the Script**: `python mainSurf.py`
 5. **Catch the Wave!**: Sit back, relax, and wait for those sweet surfing alerts to roll in.
 
 ## Contributors
