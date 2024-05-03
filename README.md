@@ -4,7 +4,7 @@ Welcome to my **Surf's Up Alert** project! 🎉
 
 ## What is it?
 
-Surf's Up Alert is a Python program that fetches real-time buoy data in Puget Sound and notifies you when the surfing conditions are ideal! 🌊🏄‍♀️ No more refreshing NOAA websites endlessly — just sit back, relax, and wait for the perfect wave.
+Surf's Up Alert is a Python program that fetches real-time buoy data from Hein Bank and notifies you when the surfing conditions are ideal! 🌊🏄‍♀️ No more refreshing NOAA websites endlessly — just sit back, relax, and wait for the perfect wave.
 
 ## Features
 
@@ -16,7 +16,7 @@ Surf's Up Alert is a Python program that fetches real-time buoy data in Puget So
 ## How to Use
 
 1. **Clone the Repository**: `git clone https://github.com/NateVanArendonk/PythonSurfTexter.git`
-2. **Install Dependencies**: `pip install -r requirements.txt`
+2. **Install Dependencies**: `pip install -r requirements.txt` if there are any
 3. **Configure Settings**: Edit `emailText.py` to set your email preferences and location.
 4. **Run the Script**: `python surfs_up_alert.py`
 5. **Catch the Wave!**: Sit back, relax, and wait for those sweet surfing alerts to roll in.
